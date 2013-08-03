@@ -15,7 +15,8 @@ exports.populateWithTestData=function()
     var testData=[
         new testimony.TestimonyModel({name:"Dorrith Simm",pic:"Anonymous.png",
     basicInfo:"DORRITH SIM found solace in Scotland and penned book My Pocket about starting a new life in a foreign country, which is being distributed in schools across Renfrewshire to tie in with a website about the Holocaust.",
-    data:"DorrithSimm.json"})
+    data:"DorrithSimm.json"}),
+
 
 
 
