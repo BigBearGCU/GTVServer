@@ -1,0 +1,29 @@
+{
+    "type":"FeatureCollection",
+    "features":
+        [
+            {
+            "type":"Feature",
+            "name":"Székesfehérvár","geometry":{"type":"Point","coordinates":[18.4167,47.2000]},
+            "text":" I was born in Western Hungary which was called Transnubia in a small town called Székesfehérvár. My maiden name was Gerofi"
+            },
+            {
+                "type":"Feature",
+                "name":"Auschwitz",
+                "geometry":{"type":"Point","coordinates":[19.1783,51.5171]},
+                "text":"It took years for people to be sent to Auschwitz or any other of the death camps, but in Hungary from 15th March the Germans came in and by 17th or 18th June I was in Auschwitz so three months and three days, you know the speed of it."
+            },
+            {
+                "type":"Feature",
+                "name":"Ayr",
+                "geometry":{"type":"Point","coordinates":[-4.6196,55.4682]},
+                "text":"ll, I didn't do very much of it and anyway, three months was the preliminary training school, but that winter was the worst, I don't know in how long. The practice in Stobhill was that they stayed in the ante-natal ward until their waters broke and then the nurse took them to the maternity unit in an ambulance"
+            },
+            {
+                "type":"Feature",
+                "name":"Glasgow",
+                "geometry":{"type":"Point","coordinates":[-4.2700,55.8700]},
+                "text":"She was a cousin of Mr Kubie's. She introduced me to the Carmichaels. Neil Carmichael, when I first got to know him he wasn't an MP yet, but he became a Labour MP. He stood for Kelvin and I lived in the West End then."
+            }
+        ]
+}
