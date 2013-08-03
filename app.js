@@ -11,7 +11,9 @@ var express = require('express')
   ,mongoose = require('mongoose')
     ,repo=require('./repository');
 
-mongoose.connect('localhost','PlatformGame');
+//mongodb://GTVUser:gtvpass@ds037498.mongolab.com:37498/heroku_app17298301
+var DB_URI="mongodb://GTVUser:gtvpass@ds037498.mongolab.com:37498/heroku_app17298301";
+mongoose.connect(DB_URI,'PlatformGame');
 var app = express();
 
 // all environments
