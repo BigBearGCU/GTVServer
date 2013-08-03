@@ -1,0 +1,37 @@
+{
+    "type":"FeatureCollection",
+    "features":
+        [
+            {
+            "type":"Feature",
+            "name":"Krakow","geometry":{"type":"Point","coordinates":[19.9372,50.0614]},
+            "text":"I was born in Krakow in Poland on the 14th of January 1932. I was born at home not in hospital"
+            },
+            {
+                "type":"Feature",
+                "name":"Brody","geometry":{"type":"Point","coordinates":[25.09,50.04]},
+                "text":"Anyway, so we went to live in the town of Brody, which is now in the Ukraine and, so I went to school there to the second class. But all the schools were moved down a year because in Russia you went to school at eight years old. So I was eight that January so I found myself second time in first class and we were taught Ukrainian."
+            },
+            {
+                "type":"Feature",
+                "name":"Achinsk","geometry":{"type":"Point","coordinates":[90.5000,56.2500]},
+                "text":"We were taken by this train away to the sort of last station, I could show you on the map, last station, in Siberia in the middle of the, you know what's known as Taiga that's primeval forest. And this was on the River Chulym which is a tributary of the River Ob, which is the big big river which goes to the north. And we disembarked there and we had to, well luckily it was June so it was warm"
+            },
+            {
+                "type":"Feature",
+                "name":"Asino","geometry":{"type":"Point","coordinates":[86.1500,57.0000]},
+                "text":"Well we were just floating down the river with the current 'til we got to the station Asino. I can show it to you on the map. Now I'm trying to see the River Chulym I'm looking for. Now Tomsk, that's right and the River Chulym must be somewhere here. Kuznetski? It's Asino! There you are Asino. So Tomsk was like, the nearest big town, there is Asino and that's the River Chulym you see"
+            },
+            {
+                "type":"Feature",
+                "name":"Bukhara","geometry":{"type":"Point","coordinates":[64.4286,39.7747]},
+                "text":"The train didn't go any further so we got off and of course the weather was wonderful, because end of October in Bukhara is just beautiful. The summer is very, very hot instead of being minus 50 like in Siberia you can get up to plus 50."
+            },
+            {
+                "type":"Feature",
+                "name":"Glasgow","geometry":{"type":"Point","coordinates":[-4.2700,55.8700]},
+                "text":"So well I knew no English, I knew Russian and Polish very well but no, no English. So I came to Glasgow and stayed with her and she sent me to Laurel Bank, because she worked at the University. She lived in Byers Road renting two rooms from a landlady and so the school was just up the road, which was very convenient, and the school was very good to me because I really could not speak a word of English."
+            }
+        ]
+
+}
